@@ -42,10 +42,6 @@
         <clipPath id="squircle-clip" clipPathUnits="objectBoundingBox">
           <path d="M0.5 0 C0.9995 0 1 0.0005 1 0.5 C1 0.9995 0.9995 1 0.5 1 C0.0005 1 0 0.9995 0 0.5 C0 0.0005 0.0005 0 0.5 0 Z" />
         </clipPath>
-        <mask id="squircle-mask" maskUnits="objectBoundingBox" maskContentUnits="objectBoundingBox">
-          <rect width="1" height="1" fill="black" />
-          <path d="M0.5 0 C0.9995 0 1 0.0005 1 0.5 C1 0.9995 0.9995 1 0.5 1 C0.0005 1 0 0.9995 0 0.5 C0 0.0005 0.0005 0 0.5 0 Z" fill="white" />
-        </mask>
       </defs>
     </svg>
   </div>

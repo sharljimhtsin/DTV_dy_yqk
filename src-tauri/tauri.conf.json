@@ -14,14 +14,14 @@
     "windows": [
       {
         "titleBarStyle": "Overlay",
-        "transparent": false,
+        "transparent": true,
         "title": "",
         "fullscreen": false,
-        "resizable": true,
+        "resizable": false,
         "width": 1440,
         "height": 810,
         "center": true,
-        "devtools": true
+        "devtools": false
       }
     ],
     "security": {

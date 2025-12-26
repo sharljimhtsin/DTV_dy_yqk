@@ -13,8 +13,8 @@
     "macOSPrivateApi": true,
     "windows": [
       {
-        "titleBarStyle": "Overlay",
-        "transparent": true,
+        "titleBarStyle": "Transparent",
+        "transparent": false,
         "title": "",
         "fullscreen": false,
         "resizable": false,

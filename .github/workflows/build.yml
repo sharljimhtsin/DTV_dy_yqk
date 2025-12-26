@@ -124,6 +124,9 @@ jobs:
             - macOS 用户可能需要在「系统偏好设置 > 安全性与隐私」中允许应用
           releaseDraft: false
           prerelease: false
+          uploadPlainBinary: true
+          uploadWorkflowArtifacts: true
+          workflowArtifactNamePattern: 'dtv.exe'
           args: ${{ matrix.args }}
 
   # 创建统一的 Release（仅在所有平台构建完成后运行）
